@@ -18,8 +18,8 @@ class Dog
   
 end  
 
-lassie = Dog.new
-lassie.name = "Lassie"
+snoopy = Dog.new
+snoopy.name = "Snoopy"
 
 puts lassie.name 
 
