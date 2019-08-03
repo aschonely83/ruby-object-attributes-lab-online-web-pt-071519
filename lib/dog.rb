@@ -5,7 +5,7 @@ class Dog
   end
   
   def breed 
-    @bark = dogs_breed
+    @breed = dogs_breed
   end  
   
 end  
