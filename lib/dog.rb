@@ -22,3 +22,8 @@ lassie = Dog.new
 lassie.name = "Lassie"
 
 puts lassie.name 
+
+beagle = Dog.new
+beagle.breed = "Beagle"
+
+puts beagle.breed
