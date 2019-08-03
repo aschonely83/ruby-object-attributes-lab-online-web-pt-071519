@@ -21,7 +21,7 @@ end
 snoopy = Dog.new
 snoopy.name = "Snoopy"
 
-puts lassie.name 
+puts snoopy.name 
 
 beagle = Dog.new
 beagle.breed = "Beagle"
